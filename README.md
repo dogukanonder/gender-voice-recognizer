@@ -5,5 +5,5 @@ for voice classification.
 
 The file format must be .wav
 
-Lodz University of Technology - Signal Processing Project
+Lodz University of Technology - Signal Processing Group Project
 26.06.2024
